@@ -2,11 +2,11 @@ export const data = [
   {
     name: "Red",
     artist: "Taylor Swift",
-    url: `https://firebasestorage.googleapis.com/v0/b/music-6fc30.appspot.com/o/02%20Red%20(Taylor's%20Version).mp3?alt=media&token=2b343a47-1f3d-4d23-9582-6a73d738f9fb`,
+    url: `https://bjgzohqckukylipjuovb.supabase.in/storage/v1/object/sign/music/02 Red (Taylor's Version).mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJtdXNpYy8wMiBSZWQgKFRheWxvcidzIFZlcnNpb24pLm1wMyIsImlhdCI6MTYzNzc2MTE2NywiZXhwIjoxOTUzMTIxMTY3fQ.r4CIuaVPUJ1dmf0UutUhfr32kIQUQ3SvabvawKwCeYs`,
   },
   {
     name: "All Too Well",
     artist: "Taylor Swift",
-    url: `https://firebasestorage.googleapis.com/v0/b/music-6fc30.appspot.com/o/05%20All%20Too%20Well%20(Taylor's%20Version).mp3?alt=media&token=3257acdf-6cce-48fd-bee3-b1f7864a5b0d`,
+    url: `https://bjgzohqckukylipjuovb.supabase.in/storage/v1/object/sign/music/05 All Too Well (Taylor's Version).mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJtdXNpYy8wNSBBbGwgVG9vIFdlbGwgKFRheWxvcidzIFZlcnNpb24pLm1wMyIsImlhdCI6MTYzNzc2MTIwNCwiZXhwIjoxOTUzMTIxMjA0fQ.aVHGQArO72tPf7C_U0Ux2MpKfvuCL_2lVGF_SrJNFQE`,
   },
 ];
